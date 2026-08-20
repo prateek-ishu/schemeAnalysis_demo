@@ -1,5 +1,22 @@
+# Dependencies
 node_modules/
-.next/
+
+# Build output
 dist/
-build/
+
+# Logs
+logs
 *.log
+npm-debug.log*
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+*.local
+
+# Env
+.env
+.env.*
+.next/
+build/
